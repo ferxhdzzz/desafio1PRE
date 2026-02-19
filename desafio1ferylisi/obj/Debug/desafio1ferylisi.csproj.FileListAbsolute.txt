@@ -1,0 +1,10 @@
+C:\Users\usuario\Desktop\Desafio1\desafio1ferylisi\bin\Debug\desafio1ferylisi.exe.config
+C:\Users\usuario\Desktop\Desafio1\desafio1ferylisi\bin\Debug\desafio1ferylisi.exe
+C:\Users\usuario\Desktop\Desafio1\desafio1ferylisi\bin\Debug\desafio1ferylisi.pdb
+C:\Users\usuario\Desktop\Desafio1\desafio1ferylisi\obj\Debug\desafio1ferylisi.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\Desafio1\desafio1ferylisi\obj\Debug\desafio1ferylisi.Form1.resources
+C:\Users\usuario\Desktop\Desafio1\desafio1ferylisi\obj\Debug\desafio1ferylisi.Properties.Resources.resources
+C:\Users\usuario\Desktop\Desafio1\desafio1ferylisi\obj\Debug\desafio1ferylisi.csproj.GenerateResource.cache
+C:\Users\usuario\Desktop\Desafio1\desafio1ferylisi\obj\Debug\desafio1ferylisi.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Desafio1\desafio1ferylisi\obj\Debug\desafio1ferylisi.exe
+C:\Users\usuario\Desktop\Desafio1\desafio1ferylisi\obj\Debug\desafio1ferylisi.pdb
