@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\usuario\\Desktop\\Desafio1\\desafio1ferylisi\\",
+  "WorkspaceRootPath": "C:\\Users\\FAMILIA CORTEZ\\Desktop\\CD26-LS\\desafio1PRE\\desafio1ferylisi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{363A4778-C158-44C4-9DEE-D4C10FEC7736}|desafio1ferylisi.csproj|c:\\users\\usuario\\desktop\\desafio1\\desafio1ferylisi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{363A4778-C158-44C4-9DEE-D4C10FEC7736}|desafio1ferylisi.csproj|c:\\users\\familia cortez\\desktop\\cd26-ls\\desafio1pre\\desafio1ferylisi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{363A4778-C158-44C4-9DEE-D4C10FEC7736}|desafio1ferylisi.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{363A4778-C158-44C4-9DEE-D4C10FEC7736}|desafio1ferylisi.csproj|c:\\users\\usuario\\desktop\\desafio1\\desafio1ferylisi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{363A4778-C158-44C4-9DEE-D4C10FEC7736}|desafio1ferylisi.csproj|C:\\Users\\FAMILIA CORTEZ\\Desktop\\CD26-LS\\desafio1PRE\\desafio1ferylisi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{363A4778-C158-44C4-9DEE-D4C10FEC7736}|desafio1ferylisi.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{363A4778-C158-44C4-9DEE-D4C10FEC7736}|desafio1ferylisi.csproj|c:\\users\\usuario\\desktop\\desafio1\\desafio1ferylisi\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{363A4778-C158-44C4-9DEE-D4C10FEC7736}|desafio1ferylisi.csproj|C:\\Users\\FAMILIA CORTEZ\\Desktop\\CD26-LS\\desafio1PRE\\desafio1ferylisi\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{363A4778-C158-44C4-9DEE-D4C10FEC7736}|desafio1ferylisi.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,41 +34,39 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\FAMILIA CORTEZ\\Desktop\\CD26-LS\\desafio1PRE\\desafio1ferylisi\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\FAMILIA CORTEZ\\Desktop\\CD26-LS\\desafio1PRE\\desafio1ferylisi\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T19:26:40.222Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\Desafio1\\desafio1ferylisi\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\FAMILIA CORTEZ\\Desktop\\CD26-LS\\desafio1PRE\\desafio1ferylisi\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\usuario\\Desktop\\Desafio1\\desafio1ferylisi\\Form1.cs",
+              "ToolTip": "C:\\Users\\FAMILIA CORTEZ\\Desktop\\CD26-LS\\desafio1PRE\\desafio1ferylisi\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAGQAAAAAAAAAAAAnwH0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAMwIwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-19T19:27:50.988Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-19T19:27:50.988Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\Desafio1\\desafio1ferylisi\\Class1.cs",
+              "DocumentMoniker": "C:\\Users\\FAMILIA CORTEZ\\Desktop\\CD26-LS\\desafio1PRE\\desafio1ferylisi\\Class1.cs",
               "RelativeDocumentMoniker": "Class1.cs",
-              "ToolTip": "C:\\Users\\usuario\\Desktop\\Desafio1\\desafio1ferylisi\\Class1.cs",
+              "ToolTip": "C:\\Users\\FAMILIA CORTEZ\\Desktop\\CD26-LS\\desafio1PRE\\desafio1ferylisi\\Class1.cs",
               "RelativeToolTip": "Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-19T19:27:03.861Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\Desafio1\\desafio1ferylisi\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\usuario\\Desktop\\Desafio1\\desafio1ferylisi\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-19T19:26:40.222Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2026-02-19T19:27:03.861Z"
             }
           ]
         }
