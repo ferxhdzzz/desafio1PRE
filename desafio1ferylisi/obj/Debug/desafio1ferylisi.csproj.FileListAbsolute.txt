@@ -8,3 +8,13 @@ C:\Users\usuario\Desktop\Desafio1\desafio1ferylisi\obj\Debug\desafio1ferylisi.cs
 C:\Users\usuario\Desktop\Desafio1\desafio1ferylisi\obj\Debug\desafio1ferylisi.csproj.CoreCompileInputs.cache
 C:\Users\usuario\Desktop\Desafio1\desafio1ferylisi\obj\Debug\desafio1ferylisi.exe
 C:\Users\usuario\Desktop\Desafio1\desafio1ferylisi\obj\Debug\desafio1ferylisi.pdb
+C:\Users\hp\Desktop\desafio1PRE\desafio1ferylisi\bin\Debug\desafio1ferylisi.exe.config
+C:\Users\hp\Desktop\desafio1PRE\desafio1ferylisi\bin\Debug\desafio1ferylisi.exe
+C:\Users\hp\Desktop\desafio1PRE\desafio1ferylisi\bin\Debug\desafio1ferylisi.pdb
+C:\Users\hp\Desktop\desafio1PRE\desafio1ferylisi\obj\Debug\desafio1ferylisi.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\desafio1PRE\desafio1ferylisi\obj\Debug\desafio1ferylisi.Form1.resources
+C:\Users\hp\Desktop\desafio1PRE\desafio1ferylisi\obj\Debug\desafio1ferylisi.Properties.Resources.resources
+C:\Users\hp\Desktop\desafio1PRE\desafio1ferylisi\obj\Debug\desafio1ferylisi.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\desafio1PRE\desafio1ferylisi\obj\Debug\desafio1ferylisi.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\desafio1PRE\desafio1ferylisi\obj\Debug\desafio1ferylisi.exe
+C:\Users\hp\Desktop\desafio1PRE\desafio1ferylisi\obj\Debug\desafio1ferylisi.pdb

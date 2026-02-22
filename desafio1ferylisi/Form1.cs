@@ -23,6 +23,11 @@ namespace desafio1ferylisi
             cmbCategoria.Items.Add("Ropa");
             cmbCategoria.Items.Add("Alimentos");
             cmbCategoria.Items.Add("Hogar");
+
+
+            // Forzar el refresco del formulario
+            this.Invalidate();
+            // Opcional: puedes usar this.Refresh(); si quieres forzar una actualización inmediata
         }
 
 
@@ -34,7 +39,7 @@ namespace desafio1ferylisi
         private void btncalcular_Click(object sender, EventArgs e)
         {
             double precioProducto;
-            double montoTotal;
+            double montoTotal ;
             double descuento = 0;
             double precioFinal = 0;
 
@@ -46,13 +51,20 @@ namespace desafio1ferylisi
                 MessageBox.Show("Ingrese un precio de producto válido (número positivo).", "Error");
                 return;
             }
-
+         
             // Validar que el monto total sea número válido
             if (!double.TryParse(txtmontoTotal.Text, out montoTotal) || montoTotal <= 0)
             {
                 MessageBox.Show("Ingrese un monto total válido (número positivo).", "Error");
                 return;
             }
+
+   if (precioProducto <= montoTotal)
+            {
+                MessageBox.Show("El monto total debe ser mayor que el precio del producto.", "Error");
+                return;
+            }
+
 
             // Validar que haya seleccionado una categoría
             if (cmbCategoria.SelectedIndex == -1)
@@ -99,16 +111,25 @@ namespace desafio1ferylisi
             if (descuento > 0)
             {
                 precioFinal = montoTotal - descuento;
-                Descuento.Text = $"Se aplicó un descuento de ${descuento:F2}";
+              
+                MessageBox.Show($"Se aplicó un descuento de ${descuento:F2}" +
+                    $"Precio final a pagar: ${precioFinal:F2}", "Ticket");
+
+                return;
             }
             else
             {
                 precioFinal = montoTotal;
-                Descuento.Text = "No se aplicó ningún descuento.";
+                
+                MessageBox.Show($"No se aplicó ningún descuento" +
+                    $"Precio final a pagar: ${precioFinal:F2}", "Ticket");
+                return;
             }
 
             // Mostrar precio final
-            lbPrecioTotal.Text = $"Precio final a pagar: ${precioFinal:F2}";
+
+         
+           
         }
 
         private void label3_Click(object sender, EventArgs e)
@@ -139,6 +160,17 @@ namespace desafio1ferylisi
         private void label4_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void txtmontoTotal_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            btncalcular.FlatStyle = FlatStyle.Flat;
+            btncalcular.FlatAppearance.BorderSize = 0;
         }
     }
 }
