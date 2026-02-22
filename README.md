@@ -1,4 +1,4 @@
-                              Calculadora de Descuentos en una Tienda con Ambiente Gráfico
+                               Calculadora de Descuentos en una Tienda con Ambiente Gráfico
 
 Esta aplicación fue desarrollada en Windows Forms con C# y permite calcular el precio final de un producto después de aplicar un descuento,
 dependiendo de la categoría seleccionada y el monto total de la compra.
@@ -60,7 +60,7 @@ Hogar → 20% si el monto es mayor a $400
 
 Si no se cumple la condición, no se aplica descuento.
 
-***Validaciones Implementadas***
+**Validaciones Implementadas**
 
 El programa valida que:
 
