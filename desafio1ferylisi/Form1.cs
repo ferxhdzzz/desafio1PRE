@@ -25,9 +25,6 @@ namespace desafio1ferylisi
             cmbCategoria.Items.Add("Hogar");
 
 
-            // Forzar el refresco del formulario
-            this.Invalidate();
-            // Opcional: puedes usar this.Refresh(); si quieres forzar una actualización inmediata
         }
 
 
@@ -43,7 +40,7 @@ namespace desafio1ferylisi
             double descuento = 0;
             double precioFinal = 0;
 
-            // 🔹 VALIDACIONES
+            //  VALIDACIONES
 
             // Validar que el precio del producto sea número válido
             if (!double.TryParse(txtprecioProducto.Text, out precioProducto) || precioProducto <= 0)
@@ -107,13 +104,13 @@ namespace desafio1ferylisi
                     break;
             }
 
-            // 🔹 IF-ELSE PARA MENSAJE DE DESCUENTO
+            //  IF-ELSE PARA MENSAJE DE DESCUENTO
             if (descuento > 0)
             {
                 precioFinal = montoTotal - descuento;
               
                 MessageBox.Show($"Se aplicó un descuento de ${descuento:F2}" +
-                    $"Precio final a pagar: ${precioFinal:F2}", "Ticket");
+                    $"  Precio final a pagar: ${precioFinal:F2}", "Ticket");
 
                 return;
             }
@@ -122,11 +119,10 @@ namespace desafio1ferylisi
                 precioFinal = montoTotal;
                 
                 MessageBox.Show($"No se aplicó ningún descuento" +
-                    $"Precio final a pagar: ${precioFinal:F2}", "Ticket");
+                    $"  Precio final a pagar: ${precioFinal:F2}", "Ticket");
                 return;
             }
 
-            // Mostrar precio final
 
          
            
