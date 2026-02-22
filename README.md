@@ -26,7 +26,7 @@ El sistema valida los datos ingresados por el usuario antes de realizar cualquie
 
 El programa se ejecutará mostrando la interfaz gráfica del sistema.
 
-***Características Implementadas***
+**Características Implementadas**
 
 - Interfaz gráfica en Windows Forms
 
