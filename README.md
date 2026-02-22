@@ -6,11 +6,11 @@ El sistema valida los datos ingresados por el usuario antes de realizar cualquie
 
  **Objetivo**
 
-Calcular el precio final de una compra aplicando descuentos según:
+- Calcular el precio final de una compra aplicando descuentos según:
 
--Categoría del producto
+- Categoría del producto
 
--Monto total de la compra
+- Monto total de la compra
 
 **Cómo Ejecutar el Programa**
 
@@ -18,7 +18,7 @@ Calcular el precio final de una compra aplicando descuentos según:
 
 2. Seleccionar Abrir Proyecto.
 
-3, Buscar la carpeta del proyecto.
+3. Buscar la carpeta del proyecto.
 
 4. Abrir el archivo .sln.
 
